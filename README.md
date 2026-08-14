@@ -90,3 +90,13 @@ npm run build
 ## Screenshots
 
 Screenshots can be added here once the application is running locally or deployed.
+![alt text]({9DAE38AA-2C4A-473E-B0FE-408C3A396054}.png)
+
+![alt text]({EA0BDB73-7C83-4B85-AF79-6153E39A13AE}.png)
+
+![alt text]({5AF074E3-74F6-4605-A439-E78451232C09}.png)
+
+![alt text]({D958C29E-C8AC-49A5-B288-9BB0C1856ADA}.png)
+
+<!-- Graph Explorer -->
+![alt text]({6F1962D1-A8E5-4C2C-82BD-B2940948055C}.png)
